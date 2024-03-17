@@ -1,0 +1,2548 @@
+[
+ {
+  "operator_name": "تست",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "آرین علیزاده (تست اپراتور HH)",
+  "sale_system": "سیستم فروش تستی پیامک",
+  "group": "تعلیقی ها",
+  "leaders": "آرین علیزاده(تست سرپرست)"
+ },
+ {
+  "operator_name": "تست فروش 3",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تعلیقی ها",
+  "leaders": "آرین علیزاده(تست سرپرست)",
+  "entries_count": 3
+ },
+ {
+  "operator_name": "تست فروش 4",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_سعید بیدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "فریده حبیبی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2943,
+  "entries_count": 18,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "زهرا لطفی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 4614,
+  "entries_count": 18,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "سهیلا شاهبندری HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2585,
+  "entries_count": 24,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "محمد عسگری HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 4366,
+  "entries_count": 12,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "زهرا نظری HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3984,
+  "entries_count": 24,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "مهناز آمره ئی بزچلوئی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2106,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "نسترن بهاروند HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فرنوش فریدنی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 260,
+  "entries_count": 27,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "شهزاده جزینی درچه HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2919,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "مریم جعفر پور بیجار بنه HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 339,
+  "entries_count": 45,
+  "answered_count": 23
+ },
+ {
+  "operator_name": "آمنه مفیدیان HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 558,
+  "entries_count": 27,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "امیررضا اکتشافی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 795,
+  "entries_count": 18,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "مژگان شعبانی امافتی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 947,
+  "entries_count": 18,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "فاطمه سلیمانی2 HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1030,
+  "entries_count": 24,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "عباس جنگلی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2105,
+  "entries_count": 18,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "فرشته قمشی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3278,
+  "entries_count": 36,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "حانیه روزبهانی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 8303,
+  "entries_count": 24,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "ام البنی دانیالی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1760,
+  "entries_count": 21,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "سمیرا بوکانیان HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2861,
+  "entries_count": 27,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "سیده سنا نجات HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 6051,
+  "entries_count": 30,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "منیره بابائی خلیلی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "entries_count": 6,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "سمیه پورحسین HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 4678,
+  "entries_count": 24,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "راضیه اتشبار HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 692,
+  "entries_count": 30,
+  "answered_count": 19
+ },
+ {
+  "operator_name": "صفورا اصلاحکار گاوکدهی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 3006,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "سمیرا کرمی ذوله HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 615,
+  "entries_count": 30,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "شیوا تفویضی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 6452,
+  "entries_count": 27,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "زینب سپهوند HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2094,
+  "entries_count": 30,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "مریم جمالی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 682,
+  "entries_count": 24,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "سیده فاطمه حسینی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2295,
+  "entries_count": 27,
+  "answered_count": 22
+ },
+ {
+  "operator_name": "اکرم نیکدل محب سراج HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 571,
+  "entries_count": 18,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "زهرا نصر اصفهانی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1253,
+  "entries_count": 27,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "مرضیه نامداری اصل HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 33,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "آرین علیزاده (تست اپراتور2 HT)",
+  "sale_system": "سیستم فروش تستی پیامک"
+ },
+ {
+  "operator_name": "سیده زینب رضوی مجد HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1068,
+  "entries_count": 45,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "سمانه کریمی"
+ },
+ {
+  "operator_name": "تست پیامک",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "تست5555555555",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "تست فروش ویپ"
+ },
+ {
+  "operator_name": "فاطمه محلوجی نطنزی(فروش)"
+ },
+ {
+  "operator_name": "سمیه جعفری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مهسا مظفری راد HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ژاله کریمی کاهل ابادی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 689,
+  "entries_count": 24,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "نازنین دوستی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1189,
+  "entries_count": 42,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "زینب سلطانی حقیقی معروف HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "محسن روشن بین PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2353,
+  "entries_count": 12,
+  "answered_count": 6
+ },
+ {
+  "operator_name": "سهند صدری PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 103,
+  "entries_count": 33,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "نازنین فرازان PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 6478,
+  "entries_count": 12,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "فرشته عزیزآبادی فراهانی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 735,
+  "entries_count": 9,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "سپیده رحیمی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1235,
+  "entries_count": 36,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "مژگان احمدی وایقان HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1284,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "الهام نصراله زاده HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 81,
+  "entries_count": 60,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "مریم روشن نقش"
+ },
+ {
+  "operator_name": "سیده مریم سیدی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3140,
+  "entries_count": 15,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "آرین علیزاده (تست اپراتور 3 HP)",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "مینا گودرزی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2699,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "حسین زارعی HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 1780,
+  "entries_count": 21,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "مهدی حیدری HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 7152,
+  "entries_count": 15,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "اکرم حق نژادی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 36,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "ندا دهقانی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 7205,
+  "entries_count": 12,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "شیرین فرجی پور HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 4216,
+  "entries_count": 15,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "عظیمه مرادی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 675,
+  "entries_count": 24,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "مجتبی غلامی HH",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تسویه شده ها",
+  "leaders": "حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "رضا ایمانی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3302,
+  "entries_count": 24,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "سینا ملک زاده HH",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تسویه شده ها",
+  "leaders": "حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زهرا پرنیان PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 23,
+  "entries_count": 48,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "فاطمه اشراقی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 9312,
+  "entries_count": 9,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "نسیم مومنی HK",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "راضیه حاجی علی شیر HK",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "خدیجه حیدرپور HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 577,
+  "entries_count": 63,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "شیوا زرگر(فروش)",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "مرضیه آتشبار HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 821,
+  "entries_count": 54,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "نگاه حسنوند HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "entries_count": 18,
+  "answered_count": 6
+ },
+ {
+  "operator_name": "سید علی رضا شمسی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1919,
+  "entries_count": 75,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "بهناز بامشاد HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "میلاد نظری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 3087,
+  "entries_count": 21,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "نجمه ابراهیمی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1594,
+  "entries_count": 27,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "حسام هاشمی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2348,
+  "entries_count": 18,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "سکینه شاهمرادی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2078,
+  "entries_count": 39,
+  "answered_count": 19
+ },
+ {
+  "operator_name": "مهسا برهانی سورهء HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 4038,
+  "entries_count": 21,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "الهام گل محمدی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 163,
+  "entries_count": 21,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "عاطفه میرزابیگی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 434,
+  "entries_count": 30,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "فاطمه آلخانیان PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 99,
+  "entries_count": 12,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "شبنم باقری PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3457,
+  "entries_count": 27,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "ارغوان فربد PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 463,
+  "entries_count": 30,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "هادی رستم نژاد چراتی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1644,
+  "entries_count": 18,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "راحله بابک HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1013,
+  "entries_count": 30,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "رکسانا خورشیدی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 1240,
+  "entries_count": 33,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "تست حضوری اقبالپور 1",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "تست حضوری اقبالپور 3",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "مهشید محمدیان PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2230,
+  "entries_count": 30,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "مهدی باولی فرد HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 7010,
+  "entries_count": 9,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "محمد پورقاسم حاج آباد PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "entries_count": 18,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "سمیرا واقفی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زهره نادری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "تست فروش مهدی پور",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "الهام کرمی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 339,
+  "entries_count": 21,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "حمیدرضا ضیایی فرHP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2070,
+  "entries_count": 18,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "حانیه وشمگیری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 9687,
+  "entries_count": 24,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "مهدیار اینانلو HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "entries_count": 15,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "سمانه مجیدی گوگرچین PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 4698,
+  "entries_count": 30,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "فاطمه خادم دورباش HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 252,
+  "entries_count": 21,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "تست فروش دورکار 1",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تعلیقی ها",
+  "leaders": "آرین علیزاده(تست سرپرست)"
+ },
+ {
+  "operator_name": "تست فروش دورکار 2",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تعلیقی ها",
+  "leaders": "آرین علیزاده(تست سرپرست)"
+ },
+ {
+  "operator_name": "تست  فروش دورکار3",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "تست فروش دورکار4",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "محمد اکبری خامنه قدیم PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 326,
+  "entries_count": 108,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "نیلوفر سلگی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 435,
+  "entries_count": 72,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "امیرحسین فتحی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1203,
+  "entries_count": 63,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "رضا خدا مرادی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 278,
+  "entries_count": 78,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "فائزه نجارپوریان HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 2193,
+  "entries_count": 21,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "زینب جهانیان PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ساناز علیزاده حماملو HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 971,
+  "entries_count": 24,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "افشین دلبسته HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 1441,
+  "entries_count": 27,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "فتانه مختار HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 2121,
+  "entries_count": 36,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "حوریه رنج بر HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 671,
+  "entries_count": 18,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "امنه تقدیر HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 768,
+  "entries_count": 30,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "مهدیه صادقی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 551,
+  "entries_count": 15,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "پریسا رستمی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 854,
+  "entries_count": 21,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "مریم دوستی پور HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "entries_count": 6,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "سعیده رفیعی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 6454,
+  "entries_count": 9,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "مهدی اکبری HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "عاطفه مرادیان HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 628,
+  "entries_count": 27,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "الميرا رضائي اول HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_صدف افشاری",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 3195,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "روح الله رفیعی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 5118,
+  "entries_count": 24,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "مبینا رحمانی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "علی رضا هادلی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 530,
+  "entries_count": 18,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "زینب چشمی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2068,
+  "entries_count": 24,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "فاطمه شمسی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه فعله گری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تسویه شده ها",
+  "leaders": "حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "هانیه خان بابا خانHD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ناصر آرامی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2962,
+  "entries_count": 42,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "زهرا عالمی صبور PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 1547,
+  "entries_count": 45,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "ندا ابراهیم HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1230,
+  "entries_count": 21,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "رعنا حیدری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1858,
+  "entries_count": 33,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "جواد شاه محمدی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1387,
+  "entries_count": 15,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "مرجان صادقی(تست حضوری اقبالپور32)",
+  "sale_system": "لیگ مشاوره اصلی"
+ },
+ {
+  "operator_name": "وحیده عظیمی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 3456,
+  "entries_count": 18,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "وحید بزرگمهر HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 2251,
+  "entries_count": 27,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "سپیده محمدی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 3935,
+  "entries_count": 39,
+  "answered_count": 20
+ },
+ {
+  "operator_name": "ساناز اسکندری خلیل سرائی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 412,
+  "entries_count": 93,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "نیما مصلحHK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1338,
+  "entries_count": 18,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "هانیه لاچینی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 7588,
+  "entries_count": 15,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "شادی عزت ور HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 595,
+  "entries_count": 39,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "مهدیه رضایی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1913,
+  "entries_count": 15,
+  "answered_count": 4
+ },
+ {
+  "operator_name": "مائده ابراهیم آبادی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 1897,
+  "entries_count": 12,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "ملیکا ابراهیم آبادی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 3488,
+  "entries_count": 12,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "امیر محمد پروین آلمانی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 548,
+  "entries_count": 33,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "بهاره سلطانخواه HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 6014,
+  "entries_count": 15,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "امیر اسکندری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 452,
+  "entries_count": 18,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "زهرا پیروز باری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تسویه شده ها",
+  "leaders": "حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "محمدرضا زین العابدینی\tHP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 2398,
+  "entries_count": 21,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "لادن احمدی فر PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 557,
+  "entries_count": 42,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "نجمه باقری نژاد HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 1594,
+  "entries_count": 27,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "ریحانه جعفرزاده HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مینا فلاح HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 2495,
+  "entries_count": 24,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "حسین غفاری PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 7264,
+  "entries_count": 30,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "میلاد سمیع PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1591,
+  "entries_count": 45,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "مرجان صادقی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1529,
+  "entries_count": 18,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "نازیلا امیری راد PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 146,
+  "entries_count": 45,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "میثم بهروزکار HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 2590,
+  "entries_count": 60,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "جمیله طاقتی حسینی پور HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 2969,
+  "entries_count": 24,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "مریم جعفری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 842,
+  "entries_count": 63,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "نیره فریدونی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 330,
+  "entries_count": 78,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "عاطفه مرتضی قلی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "تعلیقی ها",
+  "leaders": "آرین علیزاده(تست سرپرست)"
+ },
+ {
+  "operator_name": "معصومه بیابانکی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1321,
+  "entries_count": 27,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "نسترن آرمیده PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 5311,
+  "entries_count": 9,
+  "answered_count": 4
+ },
+ {
+  "operator_name": "سارا نیک محمدی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "آیدا باقری HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "نجمه میقانی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 790,
+  "entries_count": 18,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "زهرا سادات حسینی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 406,
+  "entries_count": 15,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "مریم نقی زاده ایرنجی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1",
+  "call_duration": 1531,
+  "entries_count": 54,
+  "answered_count": 24
+ },
+ {
+  "operator_name": "مستانه خسروی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1467,
+  "entries_count": 42,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "ناجیه قاسمی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "حمید سبزی علی آبادی HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 5133,
+  "entries_count": 15,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "زینب اسدیHD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2143,
+  "entries_count": 27,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "سولماز پناهی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 528,
+  "entries_count": 39,
+  "answered_count": 19
+ },
+ {
+  "operator_name": "مهسا شکری سمنگانی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "نرگس نصیری HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 8409,
+  "entries_count": 30,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "دانیال سلیمی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 415,
+  "entries_count": 27,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "زینب رجبی بادی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_افسانه شاهمرادی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فریده بهروز PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 634,
+  "entries_count": 21,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "امیر حسن خدادادی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 6770,
+  "entries_count": 45,
+  "answered_count": 22
+ },
+ {
+  "operator_name": "سميه مددپور اينانلو HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مهسا مددپور اینانلو HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زهرا حرابادی فراهانی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه پرسپولیس_سکینه یحیایی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 176,
+  "entries_count": 72,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "اسما رضائی اول HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1421,
+  "entries_count": 66,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "مریم تاری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "میلاد حیدری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1100,
+  "entries_count": 30,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "مهرناز عوضعلی پور PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1297,
+  "entries_count": 36,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "نوشین رئیسی نسب HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مهدیه گودرزی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 238,
+  "entries_count": 21,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "پریا صالحی\tHP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ(مهری کرمی)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 288,
+  "entries_count": 27,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "امیرحسین ناصری فرد PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2860,
+  "entries_count": 39,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "زهرا امام یاری PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 624,
+  "entries_count": 24,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "نغمه صدقی معروفیان HD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 2436,
+  "entries_count": 30,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "محمد عبدالملکی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 1445,
+  "entries_count": 27,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "فاطمه افتاحی HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 688,
+  "entries_count": 21,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "آیدا اترکHD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 196,
+  "entries_count": 24,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "هلیا خاکپور PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 755,
+  "entries_count": 24,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "مهدی سپه وند HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1858,
+  "entries_count": 24,
+  "answered_count": 15
+ },
+ {
+  "operator_name": "مهرداد باغدشتی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 606,
+  "entries_count": 30,
+  "answered_count": 19
+ },
+ {
+  "operator_name": "فائزه غلامحسینی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 604,
+  "entries_count": 90,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "زهره صحرانورد PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 542,
+  "entries_count": 90,
+  "answered_count": 20
+ },
+ {
+  "operator_name": "کاظم عقیلی فرد HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ( آزاده غفاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ابراهیم سرداری PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3733,
+  "entries_count": 24,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "سعید پیروزی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "امیرخنجری HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_طاهره رضوی مطلق",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 6415,
+  "entries_count": 18,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "هیوا نصری دهگلان HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه آموزشی_دورکار",
+  "leaders": "عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "اسماء مهردوست HD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3950,
+  "entries_count": 45,
+  "answered_count": 20
+ },
+ {
+  "operator_name": "محمد معین نعمتی شیخ احمدلو HD",
+  "sale_system": "لیگ اینستاگرام",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 3167,
+  "entries_count": 36,
+  "answered_count": 22
+ },
+ {
+  "operator_name": "فاطمه قربانی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 105,
+  "answered_count": 22
+ },
+ {
+  "operator_name": "کبری فریدونی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "سارا مهرگانی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "شهربانو بادلی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_علیرضا بهرامی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "call_duration": 1434,
+  "entries_count": 18,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "سمیرا بیات PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 1682,
+  "entries_count": 54,
+  "answered_count": 10
+ },
+ {
+  "operator_name": "حامد موروئی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "امیرحسین محمدباقری HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مینا اسلامی فارسانی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مرتضی اسدخواه HP",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 96,
+  "answered_count": 16
+ },
+ {
+  "operator_name": "مائده زارعی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 286,
+  "entries_count": 84,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "غزاله فیروزیار HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 57,
+  "answered_count": 13
+ },
+ {
+  "operator_name": "زینب ملکی PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "entries_count": 27,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "شبنم قنبری PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1",
+  "call_duration": 275,
+  "entries_count": 63,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "فضه عبداله زاده میرک PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "سمیه کلانکی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "رضا اسداللهی دباغ PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "call_duration": 215,
+  "entries_count": 51,
+  "answered_count": 17
+ },
+ {
+  "operator_name": "مجتبی حمیدی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_ریحانه دشتی پور",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "پری ناز فرجی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_محمد فتحعلی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), مهدی علی اصغر 1",
+  "entries_count": 9,
+  "answered_count": 1
+ },
+ {
+  "operator_name": "الهه صمدی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "call_duration": 169,
+  "entries_count": 111,
+  "answered_count": 26
+ },
+ {
+  "operator_name": "فاطمه حسینی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 1926,
+  "entries_count": 39,
+  "answered_count": 11
+ },
+ {
+  "operator_name": "زهرا مهرابی آرا HD",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "آرین نوروزیHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 29,
+  "entries_count": 120,
+  "answered_count": 25
+ },
+ {
+  "operator_name": "محمد حسین رفیعیHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 110,
+  "entries_count": 81,
+  "answered_count": 22
+ },
+ {
+  "operator_name": "مینا آشفته دل(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "call_duration": 2887,
+  "entries_count": 12,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "بهاره کریمی علویجه(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "entries_count": 6,
+  "answered_count": 4
+ },
+ {
+  "operator_name": "یوسف دیبازاده(جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "entries_count": 21,
+  "answered_count": 12
+ },
+ {
+  "operator_name": "فاطمه فریدونی(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "entries_count": 6
+ },
+ {
+  "operator_name": "حانیه ناصری(جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "لیلا باقری(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "وحید تنهایی(جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "call_duration": 480,
+  "entries_count": 18,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "سمیه ولی‌پور الماس HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (صبا افشاری)",
+  "leaders": "حامد صباغی, آقای ایمانی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زینب کرمیHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 1296,
+  "entries_count": 108,
+  "answered_count": 23
+ },
+ {
+  "operator_name": "بهناز متولی باشی نائینیHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "نسرین پروانک(جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی",
+  "call_duration": 3439,
+  "entries_count": 30,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "فاطمه سادات حسینی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "entries_count": 15,
+  "answered_count": 2
+ },
+ {
+  "operator_name": "سپیده خیام نکویی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مریم یوسفیHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "فاطمه كلاته HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 109,
+  "entries_count": 45,
+  "answered_count": 8
+ },
+ {
+  "operator_name": "مونا فصاحتی(تست حضوری 192)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)"
+ },
+ {
+  "operator_name": "دنا فصاحتی(تست حضوری 193)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 366,
+  "entries_count": 99,
+  "answered_count": 20
+ },
+ {
+  "operator_name": "بهداد بخشی(تست حضوری 194)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "عاطفه حیدری آرا PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_الهام اسماعیلی",
+  "leaders": "حامد صباغی, آقای ایمانی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه برلیان HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "مریم گوراب HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "حامد مزیدی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1",
+  "entries_count": 6,
+  "answered_count": 3
+ },
+ {
+  "operator_name": "امیر علی پور سوران HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 1088,
+  "entries_count": 108,
+  "answered_count": 21
+ },
+ {
+  "operator_name": "فاطمه خدری HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1",
+  "entries_count": 66,
+  "answered_count": 26
+ },
+ {
+  "operator_name": "علیرضا حسن زاده HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)",
+  "call_duration": 255,
+  "entries_count": 51,
+  "answered_count": 14
+ },
+ {
+  "operator_name": "امیرحسین فلاح PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "پری ناز رضائی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "ملیکا رضوی HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)",
+  "call_duration": 26,
+  "entries_count": 57,
+  "answered_count": 7
+ },
+ {
+  "operator_name": "رها فصاحتی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_سمیرا شهامتی",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1, سمیرا شهامتی(سرپرست)",
+  "call_duration": 1384,
+  "entries_count": 93,
+  "answered_count": 18
+ },
+ {
+  "operator_name": "سارا سنائی فر HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مهدیه صادقیان HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه ایرانشاهی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1",
+  "call_duration": 291,
+  "entries_count": 75,
+  "answered_count": 19
+ },
+ {
+  "operator_name": "فاطمه سلطانی HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)",
+  "entries_count": 42,
+  "answered_count": 9
+ },
+ {
+  "operator_name": "گلاره بُشتَوایی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زهرا امیری فرد HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "عرشیا ایمانی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مریم محمدی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مریم مهرزادفر HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه امیری PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "حسن امانی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "نگار اشرفی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "نجمه حسن نژاد PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ندا شند آبادی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "entries_count": 21,
+  "answered_count": 6
+ },
+ {
+  "operator_name": "سوگند مولائی کشاورز PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مهدی فرخ زاد PK",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "آدینه عازم نیا HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "تابان زمانخانپور PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مرضیه سحری HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "لیلا شافعی فر HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "مژگان قناعت PK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_آرزو غیاثوند",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "اکرم افشار PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1",
+  "entries_count": 3
+ },
+ {
+  "operator_name": "ندا رمضانی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "اعظم شاه محمدی HK",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1",
+  "entries_count": 18,
+  "answered_count": 2
+ },
+ {
+  "operator_name": "شکوفه حیدری PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "سید اشکان فصیح نیکو طلب HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "فاطمه شهبازی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "مرضیه نیلگون HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "کیمیا سادات کیایی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "لیلا فیروزی(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "عطیه زمانی انبوهی(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "محمد حسین ایران دوست(تست حضوری 213)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "شیوا شیر محمدی(تست حضوری 214)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "شیدا محمدی PA",
+  "sale_system": "لیگ طلایی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "الهه ریکی جلائی PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "مهسا رحمانی اصل HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "شیلا غفاری HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ندا وحیدیان HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "پرنیان بهاروند HK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_فاطمه عرفانی راد",
+  "leaders": "شهرزاد کلانکی (سرپرست فروش حضوری), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه زهرا جعفری PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "رضا دده خانی PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه دورکار رکورد_مهسا اسدی تورانسرایی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), آقای ایمانی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "ربابه عسگری PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "امین افزون PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فریبا کاظمیان PK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "امین ارزانی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "فاطمه پویان PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "زهرا یزدانی PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "مهدیه وطن پور HK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "سایه فهیم نیا HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "حدیقه شعبانلو HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "زهرا سلگی HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ_مینا آشفته دل",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "علین نظر رشیدی HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "آرام حسینی مهر HA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "فرهاد حیدری(تست حضوری 224)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "بهاره اساره(تست حضوری 225)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_فاطمه فریدونی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "مبینا رجایی(تست حضوری 226)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "ایمان احمدی(تست حضوری 227)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "رقیه سفرچی PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "نفیسه رئیسی استبرق HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ارتش سرخ (مبینا ولدخانی)",
+  "leaders": "حامد صباغی, عرفان مهدی پور (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "سمیه پاشایی PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_لیلا فیروزی",
+  "leaders": "آقای ایمانی, امین افخمی(سرپرست)"
+ },
+ {
+  "operator_name": "علی سفی زاده PA",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه ویژن_عطیه زمانی انبوهی",
+  "leaders": "حامد صباغی, امین افخمی(سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "سارا قدیمی HM",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه نسرین پروانک",
+  "leaders": "ندا ملکی"
+ },
+ {
+  "operator_name": "محمدحسین غلامرضاHD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_علیرضا اقتدار",
+  "leaders": "آقای ایمانی, سجاد دمه زاده (سرپرست)"
+ },
+ {
+  "operator_name": "آذین امیرقلی(جذب)",
+  "sale_system": "استخدام دورکار",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "سعید بیدار (جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "فرزام ایزدی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "شیلا روایی هروی HD",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه اوج_هانیه خان بابا خان",
+  "leaders": "حامد صباغی, آقای ایمانی, سجاد دمه زاده (سرپرست), مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "نگین قربانی HK",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "آتنا فتحی(تست حضوری 233)",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه رکورد_شهرزاد کلانکی",
+  "leaders": "شهرزاد کلانکی(سرپرست فروش دورکار), حامد صباغی, مهدی علی اصغر 1"
+ },
+ {
+  "operator_name": "رعنا حیدری (جذب)",
+  "sale_system": "استخدام  حضوری",
+  "group": "گروه جذب",
+  "leaders": "حامد صباغی, ندا ملکی"
+ },
+ {
+  "operator_name": "محمد شعبان نژاد HP",
+  "sale_system": "لیگ مشاوره اصلی",
+  "group": "گروه پرسپولیس_آذین امیر قلی",
+  "leaders": "مهدی نفری (سرپرست فروش), حامد صباغی, آقای ایمانی"
+ }
+]
